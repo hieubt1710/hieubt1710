@@ -27,6 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=hieubt1710&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieubt1710&layout=compact&theme=radical" width="48%" />
 </div>
@@ -46,7 +47,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
 
 
-<
