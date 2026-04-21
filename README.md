@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=tokyonight-duo)](https://git.io/streak-stats)
