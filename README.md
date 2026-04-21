@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=ocean-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
