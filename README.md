@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/pacman-contribution-graph.svg" width="600">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/pacman-contribution-graph.svg">
 </picture>
 
 <h2>📚 Language and Tools</h2>
