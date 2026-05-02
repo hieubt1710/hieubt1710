@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiếu</h1>
+<h1 align="center">Hi 👋, I'm Hieu Bui</h1>
 <h3 align="center">Student</h3>
 
 <p align="center">
@@ -7,11 +7,6 @@
 
 ---
 
-### 👨‍💻 Về bản thân
-
-- 🌱 Đang đào sâu nghiên cứu về **AI Agents**, **Multi-agent systems** và hệ sinh thái **ASP.NET Core**.
-- 🐧 Setup làm việc yêu thích: **Arch Linux + Hyprland**.
-- 💬 Cứ hỏi mình về: **C#, .NET, Database.
 
 ### 🛠 Tech Stack
 
@@ -27,21 +22,13 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieubt1710&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
-<!--
-**hieubt1710/hieubt1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieubt1710/hieubt1710/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
