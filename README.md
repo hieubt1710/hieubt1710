@@ -1,4 +1,4 @@
-<img src="https://github.com/hieubt1710/hieubt1710/workflows/svg.svg"/>
+<img src="https://github.com/hieubt1710/hieubt1710/svg.svg"/>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
