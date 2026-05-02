@@ -71,13 +71,13 @@
                 }
 
                 h1:nth-child(2) {
-                    color: #00fff9; /* Neon Cyan */
+                    color: #00fff9;
                     animation: glitch2 2.5s infinite;
                     z-index: -1;
                 }
 
                 h1:nth-child(3) {
-                    color: #ff00c1; /* Neon Magenta */
+                    color: #ff00c1;
                     animation: glitch3 2.5s infinite;
                     z-index: -2;
                 }
@@ -90,8 +90,8 @@
                     white-space: nowrap;
                     overflow: hidden;
                     border-right: 3px solid #58a6ff;
-                    animation: typing 3s steps(37, end) forwards, blink-caret 0.8s step-end infinite;
-                    max-width: 38ch;
+                    animation: typing 3s steps(30, end) forwards, blink-caret 0.8s step-end infinite;
+                    max-width: 30ch;
                 }
 
                 /* Keyframes Glitch */
@@ -122,7 +122,7 @@
                 /* Keyframes Typing */
                 @keyframes typing {
                     from { width: 0; }
-                    to { width: 38ch; }
+                    to { width: 30ch; }
                 }
 
                 @keyframes blink-caret {
@@ -142,7 +142,8 @@
                         <h1>Hi, I'm Hieu Bui</h1>
                     </div>
 
-                    <div class="subtitle">Intern | .NET | Arch Linux</div>
+                    <!-- ĐÃ SỬA: Hyperland thành Hyprland -->
+                    <div class="subtitle">Intern | .NET | Linux Hyprland</div>
                 </div>
             </div>
         </div>

@@ -1,4 +1,4 @@
-<img src="https://github.com/hieubt1710/hieubt1710/svg.svg"/>
+<img src="./svg.svg" width="100%" />
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -16,9 +16,6 @@
 <!-- <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
 </p> -->
-
-
-
 
 <!-- More Information Details Myself -->
 <details>
